@@ -1,23 +1,4 @@
-Skip to content
-Navigation Menu
-ahmedFNokrashy
-/
-autotest
 
-Type / to search
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Test Calculator
-Merge pull request #6 from ahmedFNokrashy/ResolveBugs #15
-Jobs
-Run details
-Workflow file for this run
-.github/workflows/pipeline.yml at 376b817
 name: Test Calculator
 
 on:
