@@ -4,7 +4,7 @@ class Calculator:
 
 
     def subtract(a, b):
-        return a - a
+        return a - b
 
 
     def multiply(a, b):
